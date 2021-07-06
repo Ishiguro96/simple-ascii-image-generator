@@ -28,7 +28,7 @@ Source code is rather self-explanatory. Feel free to play with it and modify it.
 ## Sample output
 Let's convert some image! For the testing purpose, popular meme was chosen:
 
-![Stonks](stonks.jpg)
+![Stonks](sample-image/stonks.jpg)
 
 Used command:
 ```
